@@ -1,0 +1,94 @@
+{
+  "questions":  [
+    {
+      "question": "What is Cynophobia ?",
+      "answer1": "The fear of dogs",
+      "answer2": "The fear of clowns",
+      "answer3": "The fear of spiders",
+      "answer4": "The fear of cats",
+      "correct": "The fear of dogs",
+      "image":"spider_dog.jpg"
+    },
+    {
+      "question": "What is the name of the biggest technology company in South Korea ?",
+      "answer1": "Apple",
+      "answer2": "Samsung",
+      "answer3": "Pixel",
+      "answer4": "Android",
+      "correct": "Samsung",
+      "image":"flip_phone.jpg"
+    },
+    {
+      "question": "Which animal can be seen on the Porsche logo ?",
+      "answer1": "Dog",
+      "answer2": "Elephant",
+      "answer3": "Horse",
+      "answer4": "Jellyfish",
+      "correct": "Horse",
+      "image":"porsche.jpg"
+    },
+    {
+      "question": "What is the rarest M&M color ?",
+      "answer1": "Blue",
+      "answer2": "Red",
+      "answer3": "Orange",
+      "answer4": "Brown",
+      "correct": "Arithmetic Logic Unit",
+      "image":"mandm.jpg"
+    },
+    {
+      "question": "What is the first toy to be advertised on television ?",
+      "answer1": "Cowboy Doll",
+      "answer2": "Buzz Lightyear",
+      "answer3": "Mr Potato Head",
+      "answer4": "Mrs Potato Head",
+      "correct": "Barbie",
+      "image":"toy_story.jpg"
+    },
+    {
+      "question": "Where were the 2020 Olympics Summer Olympics held ?",
+      "answer1": "Tokyo",
+      "answer2": "England",
+      "answer3": "China",
+      "answer4": "Stamford",
+      "correct": "Tokyo",
+      "image":"olympic.jpg"
+    },
+    {
+      "question": "What is the Earth's Largest Continent ?",
+      "answer1": "North America",
+      "answer2": "Australia",
+      "answer3": "Asia",
+      "answer4": "Antarctica",
+      "correct": "Asia",
+      "image":"world_map.jpg"
+    },
+    {
+      "question": "Havana is the capital of what country ?",
+      "answer1": "Cuba",
+      "answer2": "Argentina",
+      "answer3": "Brazil",
+      "answer4": "Russia",
+      "correct": "Cuba",
+      "image":"cuba.jpg"
+    },
+    {
+      "question": "What is the loudest animal on Earth ?",
+      "answer1": "Dog",
+      "answer2": "Cat",
+      "answer3": "Sperm Whale",
+      "answer4": "Squid",
+      "correct": "Sperm Whale",
+      "image":"animal.jpg"
+    },
+    {
+      "question": "How many hearts does an octopus have ?",
+      "answer1": "0",
+      "answer2": "1",
+      "answer3": "2",
+      "answer4": "3",
+      "correct": "3",
+      "image":"octopus.jpg"
+    }
+  ]
+}
